@@ -1,0 +1,44 @@
+
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+    height: 300px;
+    background-color: #e5e5e5;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.content{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.about_text{
+    width: 80%;
+    background-color: #fff;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.text{
+    width: 100%;
+    background-color: #e5e5e5;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image{
+    vertical-align: top;
+}
+
+.image2{
+    vertical-align: top;
+}
